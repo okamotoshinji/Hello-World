@@ -1,24 +1,6 @@
-# README
+共同開発課題
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+「Hello World」を表示したアプリをGithubにあげる
+Githubにアップした「Hello World」アプリをローカルにクローンして動作確認
+「Hello World」アプリでブランチ作成・任意の変更を加える・コミット・プッシュ・プルリク
+人生逆転サロンのカリキュラムで作ったサンプルアプリを変更を加えるごとにコミットしてバージョン管理（完成したらリポジトリを神里に共有してください）
