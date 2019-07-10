@@ -1,7 +1,6 @@
 class HomesController < ApplicationController
   def index
     @greet = "Hello World!!"
-
     #Userモデルをインストタンス化
     user = User.new
     #introduceメソッドを実行
