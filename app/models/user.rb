@@ -1,4 +1,5 @@
 class User
+  attr_accessor :first_name, :last_name, :birthday, :age, :hobby
   def initialize
     @first_name = "Shinji"
     @last_name = "Okamoto"
